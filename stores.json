@@ -1,20 +1,29 @@
-{
-  "stores": [
-    {
-      "name": "폰스토어",
-      "region": "경기",
-      "lat": 37.288427,
-      "lng": 127.454185,
-      "kakaoOpenChat": "https://open.kakao.com/",
-      "phoneNumber": "01012345678"
-    },
-    {
-      "name": "휴대폰 성지",
-      "region": "서울",
-      "lat": 37.511213,
-      "lng": 127.098412,
-      "kakaoOpenChat": null,
-      "phoneNumber": "01098765432"
-    }
-  ]
-}
+[
+  {
+    "name": "폰스토어",
+    "region": "경기",
+    "lat": 37.288447,
+    "lng": 127.454207,
+    "address": "경기 이천시 증신로 132, 1층",
+    "kakaoOpenChat": "https://open.kakao.com/o/aaa111",
+    "phoneNumber": "01012345678"
+  },
+  {
+    "name": "KT 원모바일 창전점",
+    "region": "경기",
+    "lat": 37.280427,
+    "lng": 127.446699,
+    "address": "경기 이천시 이섭대천로 1233, 1층",
+    "kakaoOpenChat": "https://open.kakao.com/",
+    "phoneNumber": "01099998888"
+  },
+ {
+    "name": "삼성스토어 이천증포점",
+    "region": "경기",
+    "lat": 37.288250,
+    "lng": 127.454510,
+    "address": "경기 이천시 증신로 130, 1층",
+    "kakaoOpenChat": "https://open.kakao.com",
+    "phoneNumber": "01054654545"
+  }
+]
