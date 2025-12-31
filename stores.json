@@ -2,9 +2,9 @@
   {
     "name": "폰스토어",
     "region": "경기",
-    "lat": 37.288427,
-    "lng": 127.454185,
+    "lat": "37.288427",
+    "lng": "127.454185",
     "kakaoOpenChat": "https://open.kakao.com/",
     "phoneNumber": "01012345678"
-  },
+  }
 ]
