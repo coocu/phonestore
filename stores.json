@@ -1,0 +1,20 @@
+[
+  {
+    "name": "서울 강남 성지점",
+    "region": "서울",
+    "lat": 37.498095,
+    "lng": 127.02761,
+    "address": "서울 강남구 테헤란로 123",
+    "kakaoOpenChat": "https://open.kakao.com/o/aaa111",
+    "phoneNumber": "01012345678"
+  },
+  {
+    "name": "경기 수원 성지점",
+    "region": "경기",
+    "lat": 37.263573,
+    "lng": 127.028601,
+    "address": "경기 수원시 팔달구 중부대로 11",
+    "kakaoOpenChat": "https://open.kakao.com/o/bbb222",
+    "phoneNumber": "01099998888"
+  }
+]
