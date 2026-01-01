@@ -17,16 +17,16 @@
     "kakaoOpenChat": "https://open.kakao.com/",
     "phoneNumber": "01099998888"
   },
- {
+  {
     "name": "삼성스토어 이천증포점",
     "region": "경기",
-    "lat": 37.288250,
-    "lng": 127.454510,
+    "lat": 37.28825,
+    "lng": 127.45451,
     "address": "경기 이천시 증신로 130, 1층",
     "kakaoOpenChat": "https://open.kakao.com",
     "phoneNumber": "01054654545"
   },
- {
+  {
     "name": "유노스토어",
     "region": "서울",
     "lat": "",
@@ -34,5 +34,23 @@
     "address": "",
     "kakaoOpenChat": "https://open.kakao.com",
     "phoneNumber": "01054654545"
+  },
+  {
+    "name": "밍모바일",
+    "region": "강원",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
+  },
+  {
+    "name": "아몰랑",
+    "region": "전라",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   }
 ]
