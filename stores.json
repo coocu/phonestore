@@ -91,7 +91,7 @@
   },
   {
     "name": "유노스토어",
-    "region": "인천",
+    "region": "부산",
     "lat": "",
     "lng": "부산",
     "address": "경기도 어딘가",
@@ -124,5 +124,32 @@
     "address": "경기도 어딘가",
     "kakaoOpenChat": "kakaotal",
     "phoneNumber": "010654657885"
+  },
+  {
+    "name": "밍키",
+    "region": "서울",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
+  },
+  {
+    "name": "밍키",
+    "region": "전라",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
+  },
+  {
+    "name": "밍키",
+    "region": "강원",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   }
 ]
