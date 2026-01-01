@@ -25,5 +25,14 @@
     "address": "경기 이천시 증신로 130, 1층",
     "kakaoOpenChat": "https://pf.kakao.com/_bTbFd",
     "phoneNumber": "0316380301"
+  },
+  {
+    "name": "유노스토어",
+    "region": "서울",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "",
+    "phoneNumber": "010654657885"
   }
 ]
