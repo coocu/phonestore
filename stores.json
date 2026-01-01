@@ -9,21 +9,12 @@
     "phoneNumber": "0316380301"
   },
   {
-    "name": "유노",
+    "name": "테스트매장",
     "region": "강원",
     "lat": "",
     "lng": "",
-    "address": "",
-    "kakaoOpenChat": "",
-    "phoneNumber": ""
-  },
-  {
-    "name": "우노",
-    "region": "강원",
-    "lat": "",
-    "lng": "",
-    "address": "",
-    "kakaoOpenChat": "",
+    "address": "매장사정으로 주소공개 없음",
+    "kakaoOpenChat": "https://open.kakao.com/o/s1q5ZI2h",
     "phoneNumber": ""
   }
 ]
