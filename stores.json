@@ -2,10 +2,19 @@
   {
     "name": "삼성스토어 이천증포",
     "region": "경기",
-    "lat": "",
-    "lng": "",
+    "lat": "37.2882829736529",
+    "lng": "127.454516647163",
     "address": "경기도 이천시 증신로 130",
-    "kakaoOpenChat": "",
+    "kakaoOpenChat": "https://pf.kakao.com/_bTbFd",
     "phoneNumber": "0316380301"
+  },
+  {
+    "name": "폰스토어",
+    "region": "경기",
+    "lat": "37.2884370199455",
+    "lng": "127.454195837337",
+    "address": "경기 이천시 증신로 132",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   }
 ]
