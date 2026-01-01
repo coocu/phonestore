@@ -2,55 +2,28 @@
   {
     "name": "폰스토어",
     "region": "경기",
-    "lat": 37.288447,
-    "lng": 127.454207,
+    "lat": "37.288447",
+    "lng": "127.454207",
     "address": "경기 이천시 증신로 132, 1층",
-    "kakaoOpenChat": "https://open.kakao.com/o/aaa111",
-    "phoneNumber": "01012345678"
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   },
   {
     "name": "KT 원모바일 창전점",
     "region": "경기",
-    "lat": 37.280427,
-    "lng": 127.446699,
+    "lat": "37.280427",
+    "lng": "127.446699",
     "address": "경기 이천시 이섭대천로 1233, 1층",
-    "kakaoOpenChat": "https://open.kakao.com/",
-    "phoneNumber": "01099998888"
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   },
   {
     "name": "삼성스토어 이천증포점",
     "region": "경기",
-    "lat": 37.28825,
-    "lng": 127.45451,
+    "lat": "37.28825",
+    "lng": "127.45451",
     "address": "경기 이천시 증신로 130, 1층",
-    "kakaoOpenChat": "https://open.kakao.com",
-    "phoneNumber": "01054654545"
-  },
-  {
-    "name": "유노스토어",
-    "region": "서울",
-    "lat": "",
-    "lng": "",
-    "address": "",
-    "kakaoOpenChat": "https://open.kakao.com",
-    "phoneNumber": "01054654545"
-  },
-  {
-    "name": "밍모바일",
-    "region": "강원",
-    "lat": "",
-    "lng": "",
-    "address": "",
     "kakaoOpenChat": "",
-    "phoneNumber": ""
-  },
-  {
-    "name": "아몰랑",
-    "region": "전라",
-    "lat": "",
-    "lng": "",
-    "address": "",
-    "kakaoOpenChat": "",
-    "phoneNumber": ""
+    "phoneNumber": "0316380301"
   }
 ]
