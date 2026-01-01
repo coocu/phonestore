@@ -23,7 +23,25 @@
     "lat": "37.28825",
     "lng": "127.45451",
     "address": "경기 이천시 증신로 130, 1층",
-    "kakaoOpenChat": "",
+    "kakaoOpenChat": "https://pf.kakao.com/_bTbFd",
     "phoneNumber": "0316380301"
+  },
+  {
+    "name": "유노스토어",
+    "region": "경기",
+    "lat": "",
+    "lng": "",
+    "address": "경기도",
+    "kakaoOpenChat": "kakao",
+    "phoneNumber": "01022222222"
+  },
+  {
+    "name": "밍키",
+    "region": "경기",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   }
 ]
