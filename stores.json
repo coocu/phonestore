@@ -1,110 +1,11 @@
 [
   {
-    "name": "유뉴",
-    "region": "강원",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
-    "region": "서울",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
+    "name": "삼성스토어 이천증포점",
     "region": "경기",
     "lat": "",
     "lng": "",
-    "address": "강원도",
+    "address": "경기도 이천시 증신로 130",
     "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
-    "region": "인천",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
-    "region": "대전",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
-    "region": "광주",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
-    "region": "울산",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "kakao",
-    "phoneNumber": ""
-  },
-  {
-    "name": "유뉴",
-    "region": "대구",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
-    "region": "부산",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
-  },
-  {
-    "name": "유뉴",
-    "region": "충청",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": ""
-  },
-  {
-    "name": "유뉴",
-    "region": "경상",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "kakao",
-    "phoneNumber": ""
-  },
-  {
-    "name": "유뉴",
-    "region": "전라",
-    "lat": "",
-    "lng": "",
-    "address": "강원도",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01021555151"
+    "phoneNumber": "0316380301"
   }
 ]
