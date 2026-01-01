@@ -43,5 +43,86 @@
     "address": "경기도 어딘가",
     "kakaoOpenChat": "kakaotal",
     "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "인천",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "대전",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "광주",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "울산",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "대구",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "인천",
+    "lat": "",
+    "lng": "부산",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "충청",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "경상",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
+  },
+  {
+    "name": "유노스토어",
+    "region": "전라",
+    "lat": "",
+    "lng": "",
+    "address": "경기도 어딘가",
+    "kakaoOpenChat": "kakaotal",
+    "phoneNumber": "010654657885"
   }
 ]
