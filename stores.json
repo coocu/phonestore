@@ -130,7 +130,7 @@
     "region": "서울",
     "lat": "",
     "lng": "",
-    "address": "",
+    "address": "주소가 없어서 그런가",
     "kakaoOpenChat": "",
     "phoneNumber": ""
   },
@@ -148,7 +148,7 @@
     "region": "강원",
     "lat": "",
     "lng": "",
-    "address": "",
+    "address": "이것도?",
     "kakaoOpenChat": "",
     "phoneNumber": ""
   }
