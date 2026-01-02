@@ -16,5 +16,14 @@
     "address": "매장사정으로 주소공개 없음",
     "kakaoOpenChat": "https://open.kakao.com/o/s1q5ZI2h",
     "phoneNumber": ""
+  },
+  {
+    "name": "KT플라자 울릉점",
+    "region": "울릉",
+    "lat": "37.4851078737629",
+    "lng": "130.901788187153",
+    "address": "경북 울릉군 울릉읍 도동길 193",
+    "kakaoOpenChat": "",
+    "phoneNumber": "01065465785"
   }
 ]
