@@ -11,8 +11,8 @@
   {
     "name": "폰스토어",
     "region": "경기",
-    "lat": "37.28",
-    "lng": "127.45",
+    "lat": "",
+    "lng": "",
     "address": "경기도 이천시 증포동",
     "kakaoOpenChat": "",
     "phoneNumber": ""
@@ -20,6 +20,15 @@
   {
     "name": "테스트매장",
     "region": "강원",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
+  },
+  {
+    "name": "테스트매장2",
+    "region": "울릉",
     "lat": "",
     "lng": "",
     "address": "",
