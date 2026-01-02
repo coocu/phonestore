@@ -25,5 +25,14 @@
     "address": "경북 울릉군 울릉읍 도동길 193",
     "kakaoOpenChat": "",
     "phoneNumber": "01065465785"
+  },
+  {
+    "name": "test store",
+    "region": "강원",
+    "lat": "",
+    "lng": "",
+    "address": "",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   }
 ]
