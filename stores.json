@@ -34,5 +34,14 @@
     "address": "",
     "kakaoOpenChat": "",
     "phoneNumber": ""
+  },
+  {
+    "name": "test store",
+    "region": "제주",
+    "lat": "",
+    "lng": "",
+    "address": "주소공개X",
+    "kakaoOpenChat": "",
+    "phoneNumber": ""
   }
 ]
