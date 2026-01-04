@@ -16,41 +16,5 @@
     "address": "경기도 이천시 증포동",
     "kakaoOpenChat": "",
     "phoneNumber": ""
-  },
-  {
-    "name": "테스트매장",
-    "region": "강원",
-    "lat": "",
-    "lng": "",
-    "address": "",
-    "kakaoOpenChat": "",
-    "phoneNumber": ""
-  },
-  {
-    "name": "테스트매장2",
-    "region": "울릉",
-    "lat": "",
-    "lng": "",
-    "address": "경북 울릉군 울릉읍",
-    "kakaoOpenChat": "",
-    "phoneNumber": ""
-  },
-  {
-    "name": "uno store",
-    "region": "강원",
-    "lat": "37.4876113101411",
-    "lng": "129.103548081327",
-    "address": "강원도 동해시 청운1길 29",
-    "kakaoOpenChat": "",
-    "phoneNumber": "01065465785"
-  },
-  {
-    "name": "테스트매장3",
-    "region": "제주",
-    "lat": "",
-    "lng": "",
-    "address": "제주 서귀포시",
-    "kakaoOpenChat": "",
-    "phoneNumber": ""
   }
 ]
